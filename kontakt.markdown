@@ -4,7 +4,12 @@ title: Kontakt
 permalink: /about/
 ---
 
-Anders Schierup  <br/>
+Morten Schierup Larsen  <br/>
+Hovvejen 46<br/>
+Markusminde<br/>
+8471 Sabro<br/>
 
-Email: schierup@gmail.com
+
+Telefon: 30313356 <br/>
+Email: mortenschierup@gmail.com
 
