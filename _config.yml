@@ -21,7 +21,7 @@
 title: Denroedebaron.dk
 #email: -
 description: >- # this means to ignore newlines until "baseurl:"
-  Denroedebaron.dk. En samling af usædvanlige talenter.
+  Denroedebaron.dk. Nej, det er ikke Mikkel
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://denroedebaron.dk" # the base hostname & protocol for your site, e.g. http://example.com
 
